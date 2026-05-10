@@ -1,16 +1,27 @@
-## Hi there 👋
+# Ayush verma
 
-<!--
-**Ayushverma008/Ayushverma008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a passionate developer building modern web applications with a focus on performance and scalability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+- React, javascript, HTML/CSS
+
+**Backend & Cloud**
+- Node.js, 
+- GraphQl
+- Python (FastAPI / Flask)
+
+**Tools & Others**
+- Git, GitHub
+- Machine Learning (Keras / Jupyter)
+
+
+---
+
+📫 **How to reach me**
+- GitHub: [Ayush_Verma](https://github.com/Ayushverma008)
