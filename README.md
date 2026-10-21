@@ -11,14 +11,13 @@ I'm a passionate developer building modern web applications with a focus on perf
 **Frontend**
 - React, javascript, HTML/CSS
 
-**Backend & Cloud**
+**Backend**
 - Node.js, 
-- GraphQl
-- Python (FastAPI / Flask)
+- Express.js, FastAPI, RestAPI
 
 **Tools & Others**
 - Git, GitHub
-- Machine Learning (Keras / Jupyter)
+- Python , C++, JavaScript
 
 
 ---
